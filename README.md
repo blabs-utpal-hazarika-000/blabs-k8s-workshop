@@ -312,3 +312,7 @@ datasource db {
 - Share your feedback in the [`#product-wishlist`](https://prisma.slack.com/messages/CKQTGR6T0/) channel on the [Prisma Slack](https://slack.prisma.io/)
 - Create issues and ask questions on [GitHub](https://github.com/prisma/prisma/)
 - Watch our biweekly "What's new in Prisma" livestreams on [Youtube](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w)
+
+## Additional commands for reference
+- docker build -t k8tutorial .
+- docker run --name k8tutorial -p 3000:3000 -d k8tutorial
